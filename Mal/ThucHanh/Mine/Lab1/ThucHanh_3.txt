@@ -1,0 +1,116 @@
+section .data
+    msg1 db "Enter the first number: ", 0xA, 0xD
+    len1 equ $ - msg1
+    msg2 db "Enter the second number: ", 0xA, 0xD
+    len2 equ $ - msg2
+    msg3 db "Enter the third number: ", 0xA, 0xD
+    len3 equ $ - msg3
+    msg4 db "The smallest number is: ", 0xA, 0xD
+    len4 equ $ - msg4
+
+section .bss
+    num1 resb 10  ; assuming maximum 10 digits for each number
+    num2 resb 10
+    num3 resb 10
+    smallest resb 10
+
+section .text
+    global _start
+
+_start:
+    ; Prompt user to enter the first number
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg1
+    mov edx, len1
+    int 0x80
+
+    ; Read the first number
+    mov eax, 3
+    mov ebx, 0
+    mov ecx, num1
+    mov edx, 10
+    int 0x80
+
+    ; Prompt user to enter the second number
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg2
+    mov edx, len2
+    int 0x80
+
+    ; Read the second number
+    mov eax, 3
+    mov ebx, 0
+    mov ecx, num2
+    mov edx, 10
+    int 0x80
+
+    ; Prompt user to enter the third number
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg3
+    mov edx, len3
+    int 0x80
+
+    ; Read the third number
+    mov eax, 3
+    mov ebx, 0
+    mov ecx, num3
+    mov edx, 10
+    int 0x80
+
+    ; Compare the first and second numbers
+    mov eax, dword [num1]
+    cmp eax, dword [num2]
+    jle check_third
+
+    ; If num1 is greater than num2, compare num2 with num3
+    mov eax, dword [num2]
+    cmp eax, dword [num3]
+    jle smallest_is_num2
+    jmp smallest_is_num3
+
+check_third:
+    ; If num1 is less than or equal to num2, compare num1 with num3
+    mov eax, dword [num1]
+    cmp eax, dword [num3]
+    jle smallest_is_num1
+    jmp smallest_is_num3
+
+smallest_is_num1:
+    ; num1 is the smallest, copy it to smallest
+    mov eax, dword [num1]
+    mov dword [smallest], eax
+    jmp print_smallest
+
+smallest_is_num2:
+    ; num2 is the smallest, copy it to smallest
+    mov eax, dword [num2]
+    mov dword [smallest], eax
+    jmp print_smallest
+
+smallest_is_num3:
+    ; num3 is the smallest, copy it to smallest
+    mov eax, dword [num3]
+    mov dword [smallest], eax
+
+print_smallest:
+    ; Print the smallest number
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, msg4
+    mov edx, len4
+    int 0x80
+
+    mov eax, 4
+    mov ebx, 1
+    mov ecx, smallest
+    mov edx, 10
+    int 0x80
+
+exit:
+    ; Exit the program
+    mov eax, 1
+    xor ebx, ebx
+    int 0x80

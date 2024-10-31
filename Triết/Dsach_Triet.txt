@@ -1,0 +1,117 @@
+Bang Nguyễn Quỳnh Anh	            Student	Không phân nhóm	Chưa lần nào
+Bùi Đức Huy	            Student	Không phân nhóm	Chưa lần nào
+Bùi Phạm Bích Phương	            Student	Không phân nhóm	Chưa lần nào
+Bùi Thanh Lâm	            Student	Không phân nhóm	Chưa lần nào
+Cao Dương Lâm	            Student	Không phân nhóm	Chưa lần nào
+Cao Minh Đức	            Student	Không phân nhóm	Chưa lần nào
+Dương Hải Hân	            Student	Không phân nhóm	Chưa lần nào
+Dương Hiển Gia Khang	            Student	Không phân nhóm	Chưa lần nào
+Dương Thuận Trí	            Student	Không phân nhóm	Chưa lần nào
+Dương Trọng Toàn	            Student	Không phân nhóm	7 ngày 6 giờ
+Dương Việt Huy	            Student	Không phân nhóm	Chưa lần nào
+Đặng Phước Minh Trâm	            Student	Không phân nhóm	2 ngày 7 giờ
+Đặng Quang Huy	            Student	Không phân nhóm	Chưa lần nào
+Đặng Văn Vỹ	            Student	Không phân nhóm	Chưa lần nào
+Đào Văn Tuân	            Student	Không phân nhóm	Chưa lần nào
+Đậu Minh Nhật	            Student	Không phân nhóm	5 ngày 8 giờ
+Đinh Nguyễn Anh Thư	            Student	Không phân nhóm	Chưa lần nào
+Đỗ Như Quỳnh	            Student	Không phân nhóm	Chưa lần nào
+Đoàn Phương Nam	            Student	Không phân nhóm	6 ngày 15 giờ
+Đồng Khánh Huy	            Student	Không phân nhóm	Chưa lần nào
+Giản Thanh Sang	            Student	Không phân nhóm	2 ngày 17 giờ
+Hồ Tuyết Sương	            Student	Không phân nhóm	Chưa lần nào
+Hồ Văn Việt Hoàng	            Student	Không phân nhóm	Chưa lần nào
+Hoàng Quốc Việt	            Student	Không phân nhóm	Chưa lần nào
+Huỳnh Bích Ngọc	            Student	Không phân nhóm	Chưa lần nào
+Huỳnh Lê Quốc Công	            Student	Không phân nhóm	Chưa lần nào
+Huỳnh Thái Bảo	            Student	Không phân nhóm	Chưa lần nào
+Kim Thành Tiến	            Student	Không phân nhóm	9 ngày 17 giờ
+Làu Trường Minh	            Student	Không phân nhóm	Chưa lần nào
+Lê Bảo Long	            Student	Không phân nhóm	Chưa lần nào
+Lê Đặng Quốc An	            Student	Không phân nhóm	8 ngày 19 giờ
+Lê Đào Anh Thư	            Student	Không phân nhóm	Chưa lần nào
+Lê Đoàn Kim Hương	            Student	Không phân nhóm	2 ngày 13 giờ
+Lê Ngọc Phương Thảo	            Student	Không phân nhóm	Chưa lần nào
+Lê Nguyễn Minh Thư	            Student	Không phân nhóm	Chưa lần nào
+Lê Nguyễn Thanh Tâm	            Student	Không phân nhóm	Chưa lần nào
+Lê Thành Phát	            Student	Không phân nhóm	Chưa lần nào
+Lê Thanh Duy	            Student	Không phân nhóm	Chưa lần nào
+Lê Thị Tường Vy	            Student	Không phân nhóm	7 ngày 12 giờ
+Lê Trường Hòa	            Student	Không phân nhóm	Chưa lần nào
+Lương Ngọc Huy	            Student	Không phân nhóm	2 ngày 13 giờ
+Lưu Đặng Thành	            Student	Không phân nhóm	Chưa lần nào
+Mã Hoài Ngân	            Student	Không phân nhóm	Chưa lần nào
+MẠCH TUẤN KIỆT	            Student	Không phân nhóm	Chưa lần nào
+Ngô Nguyên Khoa	            Student	Không phân nhóm	7 ngày 19 giờ
+Ngô Nguyễn Nam Trung	            Student	Không phân nhóm	Chưa lần nào
+Ngô Nhật Minh	            Student	Không phân nhóm	9 ngày 16 giờ
+Ngô Phạm Phương Uyên	            Student	Không phân nhóm	6 ngày 7 giờ
+Ngô Thành Trung	            Student	Không phân nhóm	Chưa lần nào
+Ngô Thị Tuyết Trinh	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Bá Thiện	            Student	Không phân nhóm	17 giờ 47 phút
+NGUYỄN BÙI ĐỨC KIÊN	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Chí Nghĩa	            Student	Không phân nhóm	7 ngày 20 giờ
+Nguyễn Đại Nghĩa	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Đình Phát	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Hải Nam	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Hoàng Thanh Trúc	            Student	Không phân nhóm	9 ngày 6 giờ
+Nguyễn Hùng Cường	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Hữu Nam Trường	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Khắc Hải Đăng	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Khánh Duy	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Lê Bảo Đăng	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Lê Trọng Nhân	            Student	Không phân nhóm	3 ngày 13 giờ
+Nguyễn Lê Tuấn Anh	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Lê Tuấn Nhật	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Nhật Minh	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Thái Bảo Châu	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Thị Ngọc Trâm	            Student	Không phân nhóm	8 ngày 20 giờ
+Nguyễn Thị Thu Hiền	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Thị Ý Khuyên	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Thuý Ngân	            Student	Không phân nhóm	Chưa lần nào
+NGUYỄN TIẾN NGỌC	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Trần Thảo Nguyên	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Trí Hải Nam	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Trịnh Vĩnh Thịnh	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Trường Huy	            Student	Không phân nhóm	Chưa lần nào
+NGUYỄN VĂN ANH TUẤN	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Văn Tuấn Phong	            Student	Không phân nhóm	Chưa lần nào
+Nguyễn Xuân Phúc	            Student	Không phân nhóm	Chưa lần nào
+Phạm Khôi	            Student	Không phân nhóm	Chưa lần nào
+Phạm Đình Nhật	            Student	Không phân nhóm	Chưa lần nào
+Phạm Hải Dương	            Student	Không phân nhóm	Chưa lần nào
+Phạm Nguyễn Hải Anh	            Student	Không phân nhóm	13 giây
+Phạm Nhật Huy	            Student	Không phân nhóm	Chưa lần nào
+Phạm Quý Thịnh	            Student	Không phân nhóm	Chưa lần nào
+Phạm Thị Ngọc Bích	            Student	Không phân nhóm	Chưa lần nào
+Phạm Viết Đức	            Student	Không phân nhóm	6 ngày 10 giờ
+Phan Anh Kiệt	            Student	Không phân nhóm	Chưa lần nào
+Phan Chí Cường	            Student	Không phân nhóm	8 ngày 7 giờ
+Phan Đình Khải	            Student	Không phân nhóm	Chưa lần nào
+Phan Hồ Gia Hân	            Student	Không phân nhóm	7 ngày 14 giờ
+Phan Hữu Việt Anh	            Student	Không phân nhóm	Chưa lần nào
+Phan Thanh Hải	            Student	Không phân nhóm	Chưa lần nào
+Phan Xuân Thành	            Student	Không phân nhóm	Chưa lần nào
+Trần Bảo Phú	            Student	Không phân nhóm	9 ngày 13 giờ
+Trần Công Đạt	            Student	Không phân nhóm	9 ngày 14 giờ
+Trần Gia Minh	            Student	Không phân nhóm	6 ngày 13 giờ
+Trần Minh Phúc	            Student	Không phân nhóm	Chưa lần nào
+Trần Ngọc Quỳnh Hoa	            Student	Không phân nhóm	Chưa lần nào
+Trần Thái Huy	            Student	Không phân nhóm	Chưa lần nào
+Trần Thị Kiều Trâm	            Student	Không phân nhóm	Chưa lần nào
+Trần Thị Phương Nguyên	            Student	Không phân nhóm	2 ngày 16 giờ
+Trần Thị Yến Nhi	            Student	Không phân nhóm	Chưa lần nào
+Trần Tuấn Phong	            Student	Không phân nhóm	5 ngày 12 giờ
+Trần Võ Lâm Trường	            Student	Không phân nhóm	Chưa lần nào
+Trịnh Trân Trân	            Student	Không phân nhóm	16 giờ 52 phút
+Trịnh Xuân Dương	            Student	Không phân nhóm	Chưa lần nào
+Trương Đức Huy	            Student	Không phân nhóm	2 ngày 19 giờ
+Trương Hồng Anh	            Student	Không phân nhóm	Chưa lần nào
+Trương Thế Minh Khánh	            Student	Không phân nhóm	Chưa lần nào
+Trương Tuấn Huy	            Student	Không phân nhóm	Chưa lần nào
+Võ Đăng Khoa	            Student	Không phân nhóm	Chưa lần nào
+Võ Ngọc Tuyền	            Student	Không phân nhóm	Chưa lần nào
+Võ Ngọc Bảo	            Student	Không phân nhóm	Chưa lần nào
+Võ Văn Trường	            Student	Không phân nhóm	Chưa lần nào
+Vũ Duy An	            Student	Không phân nhóm	Chưa lần nào
+Vũ Hoàng Quân

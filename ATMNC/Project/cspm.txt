@@ -1,0 +1,34 @@
+KN: Một giải pháp đám mây phát hiện các cấu hình sai trên đám mây và tự động phản hồi cũng như khắc phục sự cố.
+Tính năng cốt lõi:
+- Kết quả tổng hợp, tập trung liên tục
+- Ghi nhật ký & Khả năng hiển thị
+- Kiểm tra tiêu chuẩn bảo mật
+- Tự động khắc phục các phát hiện trên nhiều tài khoản
+- Thông báo hành động và kết quả khắc phục
+
+
+KB1: Nhóm bảo mật không được phép xâm nhập từ 0.0.0.0/0 tới cổng 22
+Một tài khoản tạo nhóm bảo mật mở cổng 22 cho tất cả IPv4
+=> vi phạm kiểm soát EC2.13
+
+KB2: Cụm RDS DB phải được đặt cấu hình cho nhiều AZ
+Một tài khoản chỉ có một phiên bản RDS DB trong một Vùng sẵn sàng
+=> Kiểm soát lỗi RDS.5
+
+KB3: Phải bật mã hóa mặc định EBS
+Một tài khoản có ổ đĩa EBS không được mã hóa
+=> Kiểm soát lỗi EC2.7
+
+Hành động trong demo : Theo dõi và khắc phục
+Output demo dự kiến:
+- Các phát hiện (finding) được tạo trong AWS Security Hub Administrator
+- Thông báo trạng thái khắc phục tới thư quản trị viên
+- Khắc phục tự động thành công
+
+AWS Config rule:: cài đặt cấu hình lý tưởng
+Scurity control: thể hiện một quy tắc -> trong một hoặc nhiều tiêu chuẩn bảo mật
+Finding: một vấn đề bảo mật tiềm ẩn được tạo ra sau khi kiểm tra bảo mật
+Playbook: một bộ biện pháp khắc phục.
+Remediation runbook: Việc triển khai một loạt các bước để giải quyết một phát hiện.
+Control runbook: Tài liệu tự động hóa SSM mà Người soạn thảo sử dụng để định tuyến biện pháp khắc phục đã bắt đầu cho một biện pháp kiểm soát cụ thể tới sổ tay biện pháp khắc phục chính xác.
+Playbook: một bộ biện pháp khắc phục

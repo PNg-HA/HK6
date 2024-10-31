@@ -1,0 +1,54 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: April_0001
+Evidence Number: 01
+Unique description: Island
+Examiner: N02
+Notes:  
+
+--------------------------------------------------------------
+
+Information for E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,886
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 30,310,400
+[Physical Drive Information]
+ Drive Model: USB3.0 FLASH DRIVE USB Device
+ Drive Serial Number: 067C04131030FL
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 14800 MB
+ Sector count:    30310400
+[Computed Hashes]
+ MD5 checksum:    1cfb2f09f0b7c5e8afe74b8b9cfe9d8d
+ SHA1 checksum:   e03e946ab0de8007fc57093ad1beea0e294fb9cd
+
+Image Information:
+ Acquisition started:   Tue Mar 12 17:19:51 2024
+ Acquisition finished:  Tue Mar 12 17:26:18 2024
+ Segment list:
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.001
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.002
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.003
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.004
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.005
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.006
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.007
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.008
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.009
+  E:\Move\UIT\HK6\Forensics\ThucHanh\Lab2\KB3\test.010
+
+Image Verification Results:
+ Verification started:  Tue Mar 12 17:26:18 2024
+ Verification finished: Tue Mar 12 17:27:03 2024
+ MD5 checksum:    1cfb2f09f0b7c5e8afe74b8b9cfe9d8d : verified
+ SHA1 checksum:   e03e946ab0de8007fc57093ad1beea0e294fb9cd : verified

@@ -1,0 +1,40 @@
+section .text
+global _start ; phải được khai báo để sử dụng với gcc
+_start: ; cho biết điểm nhập của trình liên kết
+
+    mov ecx, [num1]          ; Di chuyển số đầu tiên vào ecx
+    cmp ecx, [num2]          ; So sánh ecx với số thứ hai
+    jl check_third_num       ; Nhảy đến check_third_num nếu ecx nhỏ hơn [num2]
+    mov ecx, [num2]          ; Di chuyển số thứ hai vào ecx
+
+check_third_num:
+    cmp ecx, [num3]          ; So sánh ecx với số thứ ba
+    jl _exit                 ; Nhảy đến _exit nếu ecx nhỏ hơn [num3]
+    mov ecx, [num3]          ; Di chuyển số thứ ba vào ecx
+
+_exit:
+    mov [smallest], ecx      ; Di chuyển số nhỏ nhất vào vị trí bộ nhớ được chỉ định bởi 'smallest'
+    mov ecx, msg        ; Di chuyển số nhỏ nhất vào ecx
+    mov edx, len               ; Độ dài của đầu ra (2 byte)
+    mov ebx, 1               ; Mã số tập tin (stdout)
+    mov eax, 4               ; Số gọi hệ thống (sys_write)
+    int 0x80   
+    ; In kết quả
+    mov ecx, smallest        ; Di chuyển số nhỏ nhất vào ecx
+    mov edx, 2               ; Độ dài của đầu ra (2 byte)
+    mov ebx, 1               ; Mã số tập tin (stdout)
+    mov eax, 4               ; Số gọi hệ thống (sys_write)
+    int 0x80                 ; Gọi hạt nhân
+
+    ; Thoát chương trình
+    mov eax, 1               ; Số gọi hệ thống (sys_exit)
+    int 0x80                 ; Gọi hạt nhân
+
+section .data
+msg db "Số nhỏ nhất là: ", 0xA, 0xD
+len equ $- msg
+num1 dd '7'
+num2 dd '5'
+num3 dd '4'
+segment .bss
+smallest resb 2
